@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "name": "Wave Alpha 110 ",
+        "image": "https://image.thanhnien.vn/w2048/Uploaded/2022/hgnatm/z-ba-hung-2021/thang-7-2021/xe-may-so/xe-may-so_thanhnien-2_sfao.jpg",
+        "price": 18000000,
+        "owner": "Honda",
+        "ice": [
+            "Trắng",
+            "Đỏ",
+            "Xanh",
+            "Đen"
+        ],
+        "size": [
+            "Wave Alpha 110",
+            "",
+            ""
+        ],
+        "description": "Wave Alpha được Honda trang bị động cơ dung tích 110 cc, làm mát bằng không khí, sản sinh công suất 8,2 mã lực tại 7.500 vòng/phút, mô-men xoắn cực đại 8,44 Nm tại 6.000 vòng/phút."
+    },
+    {
+        "id": 1,
+        "name": "AirBlade 150 2021",
+        "image": "http://denledxe.com/uploads/page/2020_12/Honda-AirBlade-150-2021.jpg",
+        "price": 60000000,
+        "owner": "Honda",
+        "ice": [
+            "Trắng",
+            "Đen"
+        ],
+        "size": [
+            "Honda AirBlade 150 2021",
+            "",
+            ""
+        ],
+        "description": "Xứng danh mẫu xe tay ga thể thao tầm trung hàng đầu trong suốt hơn một thập kỷ qua, AIR BLADE hoàn toàn mới nay được nâng cấp động cơ eSP+ 4 van độc quyền, tiên tiến nhất giúp mang trong mình mãnh lực tiên phong."
+    },
+    {
+        "id": 2,
+        "name": "Winer X",
+        "image": "https://cdn.honda.com.vn/motorbike-versions/December2021/AjAslqMuYpko2d6wmuEs.png",
+        "price": 56000000,
+        "owner": "Honda",
+        "ice": [
+            "Đen",
+            "Trắng"
+        ],
+        "size": [
+            "Honda Winer X",
+            "",
+            ""
+        ],
+        "description": "Cuộc đời là một cuộc phiêu lưu tràn đầy những điều bất ngờ và mỗi người đều có một vạch đích của riêng mình. Hãy tự tin tạo những cú kích để vút xa và tạo dấu ấn riêng biệt cùng Honda WINNER X mới. Đánh dấu sự chuyển mình mạnh mẽ hướng tới hình ảnh một mẫu siêu xe thể thao cỡ nhỏ hàng đầu tại Việt Nam cùng những trang bị hiện đại và tối tân, WINNER X mới sẵn sàng cùng các tay lái bứt tốc trên mọi hành trình khám phá."
+    },
+    {
+        "id": 3,
+        "name": "Sh mode 125cc",
+        "image": "https://cdn.honda.com.vn/motorbikes/December2021/Wd66MjGr9TIeXHOhz2Rj.png",
+        "price": 56000000,
+        "owner": "Honda",
+        "ice": [
+            "Đen",
+            "Đỏ",
+            "Trắng"
+        ],
+        "size": [
+            "Sh mode 125cc",
+            "",
+            ""
+        ],
+        "description": "Thuộc phân khúc xe ga cao cấp và thừa hưởng thiết kế sang trọng nổi tiếng của dòng xe SH, Sh mode luôn được đánh giá cao nhờ kiểu dáng sang trọng, tinh tế tới từng đường nét, động cơ tiên tiến và các tiện nghi cao cấp xứng tầm phong cách sống thời thượng, đẳng cấp."
+    },
+    {
+        "id": 4,
+        "name": "Vision",
+        "image": "https://cdn.honda.com.vn/motorbikes/December2020/Bf4EFMSz9Q70ZZj3BVm1.png",
+        "price": 32000000,
+        "owner": "Honda",
+        "ice": [
+            "Xanh",
+            "Trắng",
+            "Đen",
+            "Đỏ"
+        ],
+        "size": [
+            "Vision",
+            "",
+            ""
+        ],
+        "description": "Thuộc phân khúc xe tay ga giá thấp, Vision luôn là mẫu xe được ưa chuộng trong giới trẻ và có số lượng bán ra lớn nhất tại thị trường Việt Nam suốt nhiều năm qua nhờ kiểu dáng trẻ trung, thanh lịch và nhỏ gọn. Sau 6 năm kể từ lần thay đổi lớn gần nhất vào năm 2014, chiếc xe Vision 2020 đã được nâng cấp toàn diện cả về kiểu dáng thời trang cùng những tiện ích và công nghệ hiện đại, hứa hẹn mang đến những trải nghiệm vượt xa kỳ vọng cho những người trẻ năng động và luôn dẫn đầu xu hướng."
+    }
+]
